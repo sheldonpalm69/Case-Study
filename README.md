@@ -1,5 +1,5 @@
 # The Case Study of NetSpend
-![NetSpend Logo](C:\Users\sheld\OneDrive\Pictures\Screenshots\netspend.png)
+![NetSpend Logo!](C:\Users\sheld\OneDrive\Pictures\Screenshots\netspend.png)
 ## Overview and Origin
 
 * Name of company *NetSpend*

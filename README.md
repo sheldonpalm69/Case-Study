@@ -1,8 +1,8 @@
 # The Case Study of NetSpend
-
+![NetSpend Logo](C:\Users\sheld\OneDrive\Pictures\Screenshots\netspend.png)
 ## Overview and Origin
 
-* Name of company NetSpend
+* Name of company *NetSpend*
 
 * When was the company incorporated? In 1999 NetSpend was incorporated in Austin, Texas
 
@@ -14,11 +14,11 @@ In 1999 the two Mexican immigrant brothers noticed a much need system to allow p
 * How is the company funded? How much funding have they received? The company was reportedly funded with USD 750, form the brother’s personal contribution, after they have established the brothers used the proceeding from the revenues or the sales of pre-paid debit cards until 2010 when the company went public with an IPO, raising 204 Million US$ from sale of 18.5 million common shares.
 
 ## Business Activities: Netspend is a reloadable pre-debit card distribution company, with a variety of card options ranging from:
-Personal Cards & Bank Accounts
-Payroll Cards
-Small Business Accounts
-Skylight One Cards
-Tip Pooling Accounts
+1. Personal Cards & Bank Accounts
+2. Payroll Cards
+3. Small Business Accounts
+4. Skylight One Cards
+5. Tip Pooling Accounts
 
 * What specific financial problem is the company or project trying to solve? Netspend cards have been resolving issues for 68 Million underbanked consumers, or with not sufficient credit, and that are not able to open traditional bank accounts, also helping immigrants with no credit build credit to be able to open bank accounts in the future. NetSpend has also resolve small business spending problems with their small business account. 
 

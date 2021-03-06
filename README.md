@@ -1,5 +1,5 @@
 # The Case Study of NetSpend
-![NetSpend Logo!](./netspend.png)
+![NetSpend Logo](./netspend.png)
 ## Overview and Origin
 
 * Name of company *NetSpend*

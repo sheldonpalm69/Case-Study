@@ -1,2 +1,2 @@
 # Case-Study
-EBay
+NetSpend
